@@ -37,7 +37,7 @@ To sastify our user's needs, we created:
 
 
 ## The Collaborators
-[Drum Holliday](https://github.com/CoderCoding00)
+[Drum Holliday](https://github.com/PurpleBird3)
 [Max Lin](https://github.com/max-lin95)
 [John Lopex](https://github.com/Think-Again-Coder)
 [Daisy Lien](https://github.com/quynhlien2002)
@@ -46,7 +46,7 @@ To sastify our user's needs, we created:
 Coming Soon
 
 ## Submission
-[GitHub Repo](https://github.com/CoderCoding00/custom_ads_ai)
+[GitHub Repo](https://github.com/PurpleBird3/custom_ads_ai)
 
 
 
