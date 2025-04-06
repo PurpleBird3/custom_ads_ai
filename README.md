@@ -38,8 +38,11 @@ To sastify our user's needs, we created:
 
 ## The Collaborators
 [Drum Holliday](https://github.com/CoderCoding00)
+<br>
 [Max Lin](https://github.com/max-lin95)
+<br>
 [John Lopex](https://github.com/Think-Again-Coder)
+<br>
 [Daisy Lien](https://github.com/quynhlien2002)
 
 ## Deployed on Heroku
