@@ -37,10 +37,12 @@ To sastify our user's needs, we created:
 
 
 ## The Collaborators
-[Drum Holliday](https://github.com/CoderCoding00)
-[Max Lin](https://github.com/max-lin95)
-[John Lopex](https://github.com/Think-Again-Coder)
-[Daisy Lien](https://github.com/quynhlien2002)
+<ul style="list-style: none;">
+  <li>[Drum Holliday](https://github.com/CoderCoding00)</li>
+  <li>[Max Lin](https://github.com/max-lin95)</li>
+  <li>[John Lopex](https://github.com/Think-Again-Coder)</li>
+  <li>[Daisy Lien](https://github.com/quynhlien2002)</li>
+</ul>
 
 ## Deployed on Heroku
 Coming Soon
