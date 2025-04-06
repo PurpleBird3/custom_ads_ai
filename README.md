@@ -46,7 +46,7 @@ To sastify our user's needs, we created:
 Coming Soon
 
 ## Submission
-[GitHub Repo](https://github.com/CoderCoding00/custom_ads_ai)
+[GitHub Repo](https://github.com/PurpleBird3/custom_ads_ai)
 
 
 
